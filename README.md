@@ -13,7 +13,7 @@ At this stage, I’m looking for opportunities where I can learn fast, take owne
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishika-bhandari-a91a73270) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/Krishii) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bkrishika1234@gmail.com)
 
 ---
@@ -36,4 +36,7 @@ At this stage, I’m looking for opportunities where I can learn fast, take owne
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rishii123&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![]<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=1f2937&label=Total%20Contributions&query=$.totalContributions&url=https://github-contributions-api.jogruber.de/v4/Rishii123&style=for-the-badge&logo=github&logoColor=white" />
+</p>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishii123&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
